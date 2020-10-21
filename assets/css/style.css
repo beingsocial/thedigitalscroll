@@ -2696,7 +2696,7 @@ p {
       16.PRICING css 
 ===========================*/
 .pricing-area {
-  background-color: #f4f6f7;
+  background-color: yellow;
   padding-top: 120px;
   padding-bottom: 130px; }
 
@@ -2841,7 +2841,7 @@ p {
 .testimonial-area {
   padding-top: 80px;
   padding-bottom: 130px;
-  background-color: #f4f6f7; }
+  background-color: yellow; }
   .testimonial-area .testimonial-left-content .sub-title {
     font-size: 18px;
     font-weight: 400;
