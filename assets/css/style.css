@@ -2231,7 +2231,7 @@ p {
         line-height: 24px;
         font-weight: 700;
         padding: 26px 0;
-        color: #fff;
+        color: black;
         text-transform: uppercase;
         position: relative;
         opacity: 0.8;
@@ -2279,7 +2279,7 @@ p {
               display: none; } }
       .navbar-area .navbar .navbar-nav .nav-item.active > a, .navbar-area .navbar .navbar-nav .nav-item:hover > a {
         opacity: 1;
-        color: #fff; }
+        color: blue; }
         @media only screen and (min-width: 768px) and (max-width: 991px) {
           .navbar-area .navbar .navbar-nav .nav-item.active > a, .navbar-area .navbar .navbar-nav .nav-item:hover > a {
             color: #121212; } }
@@ -2360,7 +2360,7 @@ p {
        10.SLIDER css 
 ===========================*/
 .carousel-item {
-  background-color: #0067f4;
+  background-color: white;
   position: relative; }
   .carousel-item::before {
     position: absolute;
@@ -2413,7 +2413,7 @@ p {
   .slider-content .title {
     font-size: 88px;
     line-height: 96px;
-    color: #fff;
+    color: black;
     font-weight: 700; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .slider-content .title {
@@ -2428,7 +2428,7 @@ p {
         font-size: 34px;
         line-height: 45px; } }
   .slider-content .text {
-    color: #fff;
+    color: black;
     font-size: 16px;
     line-height: 24px;
     margin-top: 16px; }
@@ -2484,7 +2484,7 @@ p {
 .carousel .carousel-control-prev, .carousel .carousel-control-next {
   top: 50%;
   font-size: 32px;
-  color: #fff;
+  color: black;
   bottom: auto;
   left: 60px;
   right: auto;
@@ -2841,7 +2841,7 @@ p {
 .testimonial-area {
   padding-top: 80px;
   padding-bottom: 130px;
-  background-color: yellow; }
+  background-color: f8f9fa; }
   .testimonial-area .testimonial-left-content .sub-title {
     font-size: 18px;
     font-weight: 400;
