@@ -2458,7 +2458,7 @@ p {
     display: block;
     width: 8px;
     height: 8px;
-    background-color: pink;
+    background-color: red;
     border-radius: 50px;
     border: 0;
     margin: 0px 2px; }
@@ -3160,8 +3160,8 @@ p.form-message.success, p.form-message.error {
 /*===== FOOTER FIVE =====*/
 .footer-area {
   background-color: #f4f6f7;
-  padding-top: 90px;
-  padding-bottom: 120px; }
+  padding-top: 1px;
+  padding-bottom: 50px; }
   .footer-area .social li {
     display: inline-block;
     margin: 0 5px; }
@@ -3206,7 +3206,7 @@ p.form-message.success, p.form-message.error {
   .footer-area .copyright .text {
     color: #121212; }
   .footer-area.footer-dark {
-    background-color: #121212; }
+    background-color: #495057; }
     .footer-area.footer-dark .social li a {
       color: #fff; }
     .footer-area.footer-dark .footer-support {
