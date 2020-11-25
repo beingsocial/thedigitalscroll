@@ -2533,8 +2533,8 @@ p {
   padding-bottom: 130px; }
 
 .single-features {
-  padding: 40px 20px 52px;
-  background-color: #fff; }
+  padding: 20px 20px 40px;
+  background-color: #f8f9fa; }
   .single-features .features-title-icon .features-title a {
     font-size: 36px;
     line-height: 45px;
@@ -2565,7 +2565,7 @@ p {
     .single-features .features-title-icon .features-icon i {
       font-size: 88px;
       line-height: 70px;
-      color: #0067f4;
+      color: #fc383200;
       position: relative;
       z-index: 5; }
     .single-features .features-title-icon .features-icon .shape {
